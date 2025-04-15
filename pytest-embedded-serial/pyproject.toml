@@ -32,7 +32,7 @@ requires-python = ">=3.7"
 
 dependencies = [
     "pytest-embedded~=1.16.0",
-    "pyserial~=3.0",
+    "pyserial~=3",
 ]
 
 [project.urls]
